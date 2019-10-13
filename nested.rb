@@ -132,5 +132,5 @@ def adding_to_dennis
         }
      }
 
-programmer_hash[:dennis_ritchie][:languages] = ["C"]
+programmer_hash[:dennis_ritchie][:languages]
 end
